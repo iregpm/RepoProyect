@@ -1,4 +1,8 @@
-
+/**
+ * @author iregp
+ * @version Inicial
+ * @date 26/04/2022
+ */
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
